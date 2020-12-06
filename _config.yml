@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Hayden"
-  avatar           : # path of avatar image, e.g. "/assets/images/logo.png"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "일을 한다는 것은 주변을 편하게 만드는 것이다."
   location         : "대한민국"
   email            : 
