@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hayden"
 description              : "since 2020"
-url                      : # the base hostname & protocol for your site e.g. "https://studiohayden2020.github.io"
+url                      :  "https://studiohayden2020.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "studiohayden2020/studiohayden2020"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/teaser500x300.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/logo88x88.png"
+repository               : "studiohayden2020/studiohayden2020"
+teaser                   : "/assets/images/teaser500x300.jpg"
+logo                     :  "/assets/images/logo88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
 # breadcrumbs            : false # true, false (default)
